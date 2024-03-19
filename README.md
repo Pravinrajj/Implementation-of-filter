@@ -154,7 +154,7 @@ plt.show()
 ### 1. Smoothing Filters
 
 #### i) Using Averaging Filter
-<img height=45% width=50% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/38f1801d-3a25-4250-bd72-d4ff4d9cf624">
+<img height=45% width=70% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/38f1801d-3a25-4250-bd72-d4ff4d9cf624">
 
 #### ii) Using Weighted Averaging Filter
 ![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/1cf9fe6f-fb98-472a-b99b-e575539a7601)
