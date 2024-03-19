@@ -157,21 +157,21 @@ plt.show()
 <img height=45% width=70% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/38f1801d-3a25-4250-bd72-d4ff4d9cf624">
 
 #### ii) Using Weighted Averaging Filter
-![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/1cf9fe6f-fb98-472a-b99b-e575539a7601)
+<img height=45% width=70% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/1cf9fe6f-fb98-472a-b99b-e575539a7601">
 
 #### iii) Using Gaussian Filter
-![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/73bb141b-d94e-4644-acde-f28f47d26bcb)
+<img height=45% width=70% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/73bb141b-d94e-4644-acde-f28f47d26bcb">
 
 #### iv) Using Median Filter
-![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/afacdacd-5d26-4fdc-ace9-7a0228c03fb8)
+<img height=45% width=70% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/afacdacd-5d26-4fdc-ace9-7a0228c03fb8">
 
 ### 2. Sharpening Filters
 
 #### i) Using Laplacian Kernal
-![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/0f55fae5-acc1-46ff-b407-b6122ad99ef9)
+<img height=45% width=70% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/0f55fae5-acc1-46ff-b407-b6122ad99ef9">
 
 #### ii) Using Laplacian Operator
-![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/d30e8985-f508-426e-9040-372e717044e6)
+<img height=45% width=70% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/d30e8985-f508-426e-9040-372e717044e6">
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
