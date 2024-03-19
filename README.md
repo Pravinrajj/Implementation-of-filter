@@ -30,7 +30,7 @@ End the program.
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
-```
+```py
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -50,7 +50,7 @@ plt.axis("off")
 plt.show()
 ```
 ii) Using Weighted Averaging Filter
-```
+```py
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -70,7 +70,7 @@ plt.axis("off")
 plt.show()
 ```
 iii) Using Gaussian Filter
-```
+```py
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -90,7 +90,7 @@ plt.show()
 ```
 
 iv) Using Median Filter
-```
+```py
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -111,7 +111,7 @@ plt.show()
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
-```
+```py
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -131,7 +131,7 @@ plt.axis("off")
 plt.show()
 ```
 ii) Using Laplacian Operator
-```
+```py
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -154,7 +154,7 @@ plt.show()
 ### 1. Smoothing Filters
 
 #### i) Using Averaging Filter
-![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/38f1801d-3a25-4250-bd72-d4ff4d9cf624)
+<img height=45% width=50% src="https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/38f1801d-3a25-4250-bd72-d4ff4d9cf624">
 
 #### ii) Using Weighted Averaging Filter
 ![image](https://github.com/Pravinrajj/Implementation-of-filter/assets/117917674/1cf9fe6f-fb98-472a-b99b-e575539a7601)
